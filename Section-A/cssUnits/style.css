@@ -1,0 +1,37 @@
+/* ABSOLUTE Units */
+
+/* #baksa{
+    height: 400px;
+    width: 400px;
+    border: 1px solid black;
+} */
+
+
+/* RELATIVE Units */
+
+/* #faaltu{
+    font-size: 2em;
+} */
+
+/* li{
+    font-size: 2em;
+    list-style: none;
+} */
+
+/* #box{
+    height: 500px;
+    width: 500px;
+    border: 1px solid black;
+}
+
+#inner{
+    height: 50%;
+    width: 50%;
+    border: 1px solid palegreen;
+} */
+
+div{
+    height: 50vh;
+    width: 50vw;
+    border: 5px solid green;
+}

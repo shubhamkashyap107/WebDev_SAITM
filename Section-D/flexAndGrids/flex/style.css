@@ -1,0 +1,14 @@
+#dabba{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    flex-direction: row;
+    border: 1px solid grey;
+    justify-content: space-evenly;
+}
+
+.inner{
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+}

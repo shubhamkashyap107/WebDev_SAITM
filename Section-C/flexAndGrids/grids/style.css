@@ -1,0 +1,18 @@
+#grid{
+    display: grid;
+    border: 1px solid black;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 10px;
+}
+
+div{
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+   
+}
+
+#special{
+    border: 5px solid purple;
+    grid-column-start: 2;
+}

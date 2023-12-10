@@ -1,0 +1,12 @@
+div{
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+}
+
+#dabba{
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    height: 1000px;
+}

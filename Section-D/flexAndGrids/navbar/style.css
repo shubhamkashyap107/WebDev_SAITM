@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#navbar{
+    height: 50px;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: fixed;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    color: gold;
+    transition-duration: .5s;
+}

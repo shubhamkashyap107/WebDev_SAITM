@@ -1,0 +1,17 @@
+#grid{
+    display: grid;
+    border: 1px solid palegreen;
+    grid-template-columns: 1fr 1fr 1fr 1fr ;
+    gap: 10px;
+}
+
+.box{
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+}
+
+#special{
+    grid-column-start: 2;
+    border: 5px solid purple;
+}

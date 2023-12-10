@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#navbar{
+    display: flex;
+    background-color: black;
+    height: 50px;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+    position: fixed;
+    /* top: 0px; */
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+a:hover{
+    color: yellow;
+    transition-duration: 1s;
+}

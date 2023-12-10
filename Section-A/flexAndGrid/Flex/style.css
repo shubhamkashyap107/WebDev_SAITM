@@ -1,0 +1,7 @@
+.box{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    border: 5px solid pink;
+    flex-direction: row;
+}

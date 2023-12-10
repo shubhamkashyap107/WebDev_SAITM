@@ -1,0 +1,28 @@
+div{
+    height: 200px;
+    width: 200px;
+    border: 5px solid black;
+    display: inline-block;
+    margin: 10px;
+}
+
+#static-middle{
+    position: static;
+    top: 100px;
+    left: 100px;
+}
+
+#relative-middle{
+    position: relative;
+    bottom: 100px;
+    left: 100px;
+}
+
+#absolute{
+    position: relative;
+}
+
+#absolute-middle{
+    position: absolute;
+    top: 150px;
+}
